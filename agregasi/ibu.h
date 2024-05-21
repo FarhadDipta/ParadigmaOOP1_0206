@@ -23,6 +23,6 @@ void ibu::cetakAnak() {
     for (auto& a : daftar_anak) {
         cout <<a->nama << "\n";
     }
-    coutt << endl;
+    cout << endl;
 }
 #endif
